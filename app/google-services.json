@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12482150702",
+    "project_id": "proyectofinalpas",
+    "storage_bucket": "proyectofinalpas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12482150702:android:b8cca679eae6f128c7fabf",
+        "android_client_info": {
+          "package_name": "com.etsisi.pas.aplicacionfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12482150702-t845geg5n9t84vssnmf7lifeeqhvdifq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPl4Fi9XWw9Fx9YPu_dFt54tDax6ewxg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12482150702-t845geg5n9t84vssnmf7lifeeqhvdifq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
